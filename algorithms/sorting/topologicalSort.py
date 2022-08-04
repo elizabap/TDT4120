@@ -1,6 +1,7 @@
 # Topological sort is a sorting algorithm that works by creating a graph of the elements in the array. Then, it traverses the graph in a topological order.
 # The running time of Topological sort is O(V + E), where V is the number of vertices and E is the number of edges.
 # The worst case is O(V^2).
+# Easy explaination of topological sort: Topological sort is an algorithm that can be used to sort a graph in topological order.
 
 def topologicalSort(arr):
     # create a graph
